@@ -6,7 +6,7 @@ This project uses the **Iris dataset** to train a machine learning model that cl
 
 ## 📊 Model Training
 The dataset was split into training and testing sets.  
-A simple classification model (e.g., Logistic Regression / Decision Tree / etc.) was trained using `scikit-learn`.
+A simple classification model (e.g., Logistic Regression) was trained using `scikit-learn`.
 
 ##  Results
 - **Model Accuracy:** 100%
